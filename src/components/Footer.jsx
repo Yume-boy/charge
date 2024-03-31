@@ -18,7 +18,7 @@ const Footer = () => {
             <div className='w-75 d-flex justify-content-between'>
             <Link to='/About' className='text-reset text-decoration-none pt-2'>About Us</Link>
             <Link to='/Career'  className='text-reset  text-decoration-none  pt-2'>How It Works</Link>
-            <Link to='/Roles'  className='text-reset  text-decoration-none  pt-2'>Career</Link>
+            <Link to='/Career'  className='text-reset  text-decoration-none  pt-2'>Career</Link>
             <Link to=''  className='text-reset  text-decoration-none  pt-2'>Contact Us</Link>
             <Link to='/' className='text-reset text-decoration-none pt-2'>Pricing</Link>
             <Link to='/Roles'  className='text-reset  text-decoration-none  pt-2'>FAQs</Link>
