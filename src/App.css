@@ -15,23 +15,36 @@ body {
 
 .logo {
   width: 50%;
+
+}
+
+.Links {
+  color: #fff;
+}
+
+.logo img {
+  width: 70px;
 }
 
 .links {
-  width: 50%;
+  width: 100%;
   font-family: "Open Sans", sans-serif;
+  color: #fff;
 
 }
 
-.links-2 {
-
-  width: 30%;
-  font-family: "Open Sans", sans-serif;
+.app {
+  background-color: #008A33;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
 .hero {
   width: 100%;
-  height: 629px;
+  height: auto;
   background: #0F111066;
 
 
@@ -152,7 +165,7 @@ font-family: "Open Sans", sans-serif;
 
 .img img{
   width: 238px;
-  height: 406px;
+  height: 403px;
   gap: 0px;
   opacity: 0px;
   border-radius: 10px;
@@ -160,15 +173,19 @@ font-family: "Open Sans", sans-serif;
 
 .img:nth-child(1) {
   margin-top: 90px;
+  height: 403px;
 }
 
 
 .img:nth-child(3) {
   margin-top: 50px;
+  height: 403px;
 }
 
 .img:nth-child(4) {
   margin-top: 100px;
+  height: 402px;
+  background-size: cover;
 }
 
 .about-6 {
@@ -181,7 +198,7 @@ font-family: "Open Sans", sans-serif;
 
 .about-6 .right img {
   width: 370px;
-  height: 406px;
+  height: auto;
   gap: 0px;
   opacity: 0px;
   border-radius: 20px;
@@ -304,6 +321,7 @@ font-family: "Open Sans", sans-serif;
 
 .set img {
   border-radius: 0 20px 20px 0;
+  height: auto;
   
 }
 
@@ -313,7 +331,7 @@ font-family: "Open Sans", sans-serif;
 
 .career-1 img {
   width: 100%;
-  height: 100vh;
+  height: auto;
 
 }
 
@@ -337,4 +355,136 @@ font-family: "Open Sans", sans-serif;
   bottom: 10px;
   color: #fff;
   padding: 0 70px;
+}
+
+.career-2 {
+  padding: 50px 30px;
+}
+
+.rule {
+  width: ;
+  height: 2px;
+  background-color: #B8C3BF;
+}
+
+.rule-1 {
+  width: 100%;
+  height: 2px;
+  background-color: #2A322F;
+}
+
+.career-2 h3 {
+
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+font-family: "Open Sans", sans-serif;
+
+}
+
+.career-4 h3{
+  font-family: "Open Sans", sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 44px;
+text-align: center;
+padding: 0 330px;
+
+}
+
+.career-4 p {
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+padding: 0 270px;
+}
+
+.role-1 {
+  width: 100%;
+  height: 503px;
+  background: #000 url("https://s3-alpha-sig.figma.com/img/97c3/c9b4/18ec639dbc1fed112164e05a63988607?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FXs8ZZ~yhEyKuT~rE8q4jxSxho~9DUC9kl4myCwYBKCAeelFfIdEVZ2-nua6erqNgJNWrixriHVR6N6b0lSl4Lgu48d5Sh5wqpMlULriA0SLa1nEoKFpX6ax-Bh9CayFyfx6dnCg9CLHRZiMBeukP5POpU9AFrkJgesef3Hxe8a2s979~AFeyuFAOuU8evdq6tJvb8-jKLPJ6v45wPO53Xe9KjTJY2ESwR7Mw-b794POS5DwhPDSDRqxLDLvnoAY0YIIon1OkllKtHNY9yklANhcpaYwx9DM5c6nl3ybZLSCBkCm-JU584KNURVs88A4JOgvR2zI0nlAXWO-GMNjPw__") no-repeat ;
+  background-size: cover;
+  background-position: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 70px;
+  text-align: center;
+  color: #fff;
+  
+  
+}
+
+.section {
+  width: 768px;
+  border: 1px solid #DCE1DF;
+  padding: 15px 40px;
+  border-radius: 10px;
+}
+
+.section h4 {
+
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+  color: #008A33;
+
+}
+
+.section h3 {
+
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+
+}
+
+.section p{
+    
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+
+}
+
+.footer-logo img {
+    width: 100px;
+}
+
+.footer {
+  background-color: #1C211F;
+  color: #EDF0EF;
+}
+
+.footer p {
+
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+
+}
+
+.footer-charge h3 {
+
+font-size: 110px;
+font-weight: 800;
+line-height: 192.97px;
+text-align: center;
+color: #2A322F;
+}
+
+.copyright {
+
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: 
+#8C9E96;
 }
