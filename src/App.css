@@ -310,3 +310,31 @@ font-family: "Open Sans", sans-serif;
 .set-2 {
   padding-left: 150px;
 }
+
+.career-1 img {
+  width: 100%;
+  height: 100vh;
+
+}
+
+.rip h2 {
+
+  font-family: "Open Sans", sans-serif;
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 60px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+}
+
+.rip {
+  position: relative;
+}
+
+.rip h2 {
+  position: absolute;
+  bottom: 10px;
+  color: #fff;
+  padding: 0 70px;
+}
