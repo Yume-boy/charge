@@ -6,6 +6,7 @@ import Roles from '../src/components/Roles';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
 import Layout from './components/Layout';
+import Home from './components/Home';
 
 
 import './App.css'
@@ -18,9 +19,10 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Layout />}>
-            <Route index element={<About />} />
+            <Route index element={<Home />} />
             <Route path='/career' element={<Career />} />
             <Route path='/Roles' element={<Roles />} />
+            <Route path='/About' element={<About />} />
           </Route>
         </Routes>
       </BrowserRouter>
