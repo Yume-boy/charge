@@ -16,10 +16,10 @@ const Footer = () => {
             <div className='footer-logo'><img src={logo} alt="" /></div>
             <p>Mobile EV charge that has your back</p>
             <div className='w-75 d-flex justify-content-between'>
-            <Link to='/' className='text-reset text-decoration-none pt-2'>About Us</Link>
+            <Link to='/About' className='text-reset text-decoration-none pt-2'>About Us</Link>
             <Link to='/Career'  className='text-reset  text-decoration-none  pt-2'>How It Works</Link>
-            <Link to='/Career'  className='text-reset  text-decoration-none  pt-2'>Career</Link>
-            <Link to='/About'  className='text-reset  text-decoration-none  pt-2'>Contact Us</Link>
+            <Link to='/Roles'  className='text-reset  text-decoration-none  pt-2'>Career</Link>
+            <Link to=''  className='text-reset  text-decoration-none  pt-2'>Contact Us</Link>
             <Link to='/' className='text-reset text-decoration-none pt-2'>Pricing</Link>
             <Link to='/Roles'  className='text-reset  text-decoration-none  pt-2'>FAQs</Link>
             </div>
