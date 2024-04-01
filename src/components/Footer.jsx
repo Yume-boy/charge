@@ -16,12 +16,12 @@ const Footer = () => {
             <div className='footer-logo'><img src={logo} alt="" /></div>
             <p>Mobile EV charge that has your back</p>
             <div className='w-75 d-flex justify-content-between'>
-            <Link to='/About' className='text-reset text-decoration-none pt-2'>About Us</Link>
-            <Link to='/Career'  className='text-reset  text-decoration-none  pt-2'>How It Works</Link>
-            <Link to='/Career'  className='text-reset  text-decoration-none  pt-2'>Career</Link>
-            <Link to=''  className='text-reset  text-decoration-none  pt-2'>Contact Us</Link>
-            <Link to='/' className='text-reset text-decoration-none pt-2'>Pricing</Link>
-            <Link to='/Roles'  className='text-reset  text-decoration-none  pt-2'>FAQs</Link>
+            <a href='/About' className='text-reset text-decoration-none pt-2'>About Us</a>
+            <a href=''  className='text-reset  text-decoration-none  pt-2'>How It Works</a>
+            <a href='/Career'  className='text-reset  text-decoration-none  pt-2'>Career</a>
+            <a href=''  className='text-reset  text-decoration-none  pt-2'>Contact Us</a>
+            <a href='/' className='text-reset text-decoration-none pt-2'>Pricing</a>
+            <a href='/Roles'  className='text-reset  text-decoration-none  pt-2'>FAQs</a>
             </div>
             </div>
             <div class="col-4 d-flex justify-content-end flex-column align-items-end">

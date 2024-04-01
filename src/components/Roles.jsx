@@ -28,10 +28,10 @@ const Roles = () => {
 
               <div className='section mt-5'>
                 <div className='d-flex justify-content-between'>
-                  <h4>Design</h4>
+                  <h4>Software development</h4>
                   <h4>View Job<MdArrowOutward /></h4>
                 </div>
-                <h3 className='mt-2'>Product Designer</h3>
+                <h3 className='mt-2'>Engineering manager</h3>
                 <div className='d-flex pt-3'>
                 <p className='px-3 mt-1'><CiLocationOn /> Remote</p>
                 <p className='px-3 mt-1'><MdAccessTime /> Full-Time</p>
@@ -41,10 +41,10 @@ const Roles = () => {
 
               <div className='section mt-5'>
                 <div className='d-flex justify-content-between'>
-                  <h4>Design</h4>
+                  <h4>Customer Success</h4>
                   <h4>View Job<MdArrowOutward /></h4>
                 </div>
-                <h3 className='mt-2'>Product Designer</h3>
+                <h3 className='mt-2'>Customer Success Manager</h3>
                 <div className='d-flex pt-3'>
                 <p className='px-3 mt-1'><CiLocationOn /> Remote</p>
                 <p className='px-3 mt-1'><MdAccessTime /> Full-Time</p>
@@ -54,10 +54,10 @@ const Roles = () => {
 
               <div className='section mt-5'>
                 <div className='d-flex justify-content-between'>
-                  <h4>Design</h4>
+                  <h4>Sales</h4>
                   <h4>View Job<MdArrowOutward /></h4>
                 </div>
-                <h3 className='mt-2'>Product Designer</h3>
+                <h3 className='mt-2'>Account Executive</h3>
                 <div className='d-flex pt-3'>
                 <p className='px-3 mt-1'><CiLocationOn /> Remote</p>
                 <p className='px-3 mt-1'><MdAccessTime /> Full-Time</p>
@@ -67,10 +67,10 @@ const Roles = () => {
 
               <div className='section my-5'>
                 <div className='d-flex justify-content-between'>
-                  <h4>Design</h4>
+                  <h4>Marketing</h4>
                   <h4>View Job<MdArrowOutward /></h4>
                 </div>
-                <h3 className='mt-2'>Product Designer</h3>
+                <h3 className='mt-2'>SEO Marketing Manager</h3>
                 <div className='d-flex pt-3'>
                 <p className='px-3 mt-1'><CiLocationOn /> Remote</p>
                 <p className='px-3 mt-1'><MdAccessTime /> Full-Time</p>

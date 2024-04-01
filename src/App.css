@@ -173,23 +173,28 @@ font-family: "Open Sans", sans-serif;
   gap: 0px;
   opacity: 0px;
   border-radius: 10px;
+
 }
 
 .img:nth-child(1) {
   margin-top: 90px;
   height: 403px;
+  min-width: 270px;
 }
 
 
 .img:nth-child(3) {
   margin-top: 50px;
   height: 403px;
+  min-width: 270px;
 }
 
 .img:nth-child(4) {
   margin-top: 100px;
   height: 402px;
   background-size: cover;
+  min-width: 270px;
+
 }
 
 .about-6 {
@@ -290,6 +295,11 @@ font-family: "Open Sans", sans-serif;
 
 }
 
+.about-7 img {
+  height: 45px;
+  width: 45px;
+}
+
 .about-7 p {
 
 font-family: Open Sauce Sans;
@@ -326,7 +336,7 @@ font-family: "Open Sans", sans-serif;
 }
 
 .about-8 {
-  min-width: 1314px;
+  min-width: 1214px;
 }
 
 .set img {
@@ -337,6 +347,7 @@ font-family: "Open Sans", sans-serif;
 
 .set-2 {
   padding-left: 150px;
+  min-width: 50%;
 }
 
 .career-1 img {
