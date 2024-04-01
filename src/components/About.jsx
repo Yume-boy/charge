@@ -37,17 +37,17 @@ const About = () => {
 
        </div>
        <div class="container text-center mt-5">
-        <div class="row align-items-center">
-            <div class="col img">
+        <div class="d-flex justify-content-between">
+            <div class=" img">
             <img src="https://s3-alpha-sig.figma.com/img/fda8/82e8/3d78414f82b3808ade0cfe4681f2bf19?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=A84bKi-9ethVBa4fM0NWQkqCa2mUU62unp1pv8~g4hWAyT15acKpNkBz7vtBrxubfb9Tqg8CDNic8ObAwjkrnVhfeiJltjCW990N8O22cXDpvg0fGcvn0Lgal3nvq~kucEaqdXd6A-XkdUejA00-p19DnVfE7WihaXtN0liORfsclYhfD-q3YGhrdXEqFzqPPWPb~bYOK~Z-gTjd7RSf5zr~N4d4J~hZmw7ybC0Sjg7u1dxpsCIrmsj~TRb-Rjfv8WNacfGwBFYb18zwSXG5BUBNJFpa4v2kRNlkvdurkGuTE7vK9H8B54Vy1eAKf11j3apH28CDYQz0rvBEFXh47A__" alt="" />
             </div>
-            <div class="col img">
+            <div class=" img">
             <img src="https://s3-alpha-sig.figma.com/img/8cc9/739a/e6333fbf4d895a335c35797bd47319f9?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FSKlvnhDeiLt3vjRw1S83fMMFLIPSrzNz~nxl-WGBK3rdujxaHLa3sdiUpWFXOf~~OpJwMCXqD3W06xTp4EhAZ4vzo61kkLbYrGVi3aZ9vBW6AFNH83LbRqLMnfuCrLo6PN00LbzPNh9M7G8zj1ZU0zPDKlY950wfCTSXb1pIilML1Zogfj8R8CODRdyEfugVfG-hLqE1tSwEI0BlM2vAucLT2RJV7DQ-k0LNl4PylAKFyhYk1Cz6PEiDT-x5NN3vtHIHHKPw81W-U5L0wv4WkkyOD1wi2l8dhTxCR9sVjnMauQG~9lnlg9S4Va2Ldaymap3TDmPSlG5va2UYAHJGw__" alt="" />
             </div>
-            <div class="col img">
+            <div class=" img">
             <img src="https://s3-alpha-sig.figma.com/img/6e4f/35fa/6fa54046c475ecd9058704d0ee9ee2c1?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oM6yEXTKeb2cwp7VmdOuOzn1Lv3E-ISVrcfvJvnily8NNXuNjal5zGOb8j2mGGYSLKdgHDzin0kKkP0n282Y3DGR6erwjA2X~2nW9gdQkpo-iHh~VSI6047~WJxZB-Pw5xMIhwMXzt19yOeMaP0ghLVPfq5Bh6UgX~pokE3-ZoEL4RxsGqS7BMgE43L8qwKCUJmwZWuaRIcE49xUaZ4tRjeFlU1J7EB2jc5y0GRxPAaSlrDasEPilf3PWG6~0QaldRSL2gSB6l-CxmfxpRKa9JKyBC9eAYxzqcb9i8hi1crfPks3Rqy-MGcZWTj27bgE~20O-Ic8G4GPMPJnDk7qWw__" alt="" />
             </div>
-            <div class="col img">
+            <div class=" img">
             <img src="https://s3-alpha-sig.figma.com/img/6e5c/e524/5eee504479e4665c430dbbae3fbcb84f?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Bn0lScq73Sgi4PC~B1o5t5LihGh9MrbF-jTSj-6Rk58RfVQzC2~TtpsnaklSDuUK8H-w323xeA5-ZP8yQPAHy0ls-tKoGXAF2mN0A2qTgnn~gO46tv1IIFCbZNz6fYXdzTfqPLWjiTKLhRCGfvFd-FgYTQ4j0329efUmIcENHJwQA4-Scw8CkoKqacjBQLpG1~Yi27cA-jiiXkOGj-9Crksoov30MSAwLAfElNYAV6WKlCerZ9wxrXmdOqoeYiZu4SQ9IPuSqIggOn~Buc9~RU09jXpD3JcOS3PiycWvNIgbIHS4CCiA4QWr5hfSbZPHBtavZ448QMK~DLcMIUGvtg__" alt="" />
             </div>
             

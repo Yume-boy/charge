@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom'
 const Footer = () => {
   return (
     <div className='footer'>
-    <div class="container  mt-5 ">
+    <div class="container  pt-5 ">
         <div class="row align-items-center">
             <div class="col-8">
             <div className='footer-logo'><img src={logo} alt="" /></div>
